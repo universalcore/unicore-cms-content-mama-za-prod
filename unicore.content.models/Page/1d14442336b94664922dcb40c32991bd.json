@@ -6,15 +6,18 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-19T11:22:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-19T12:50:02.887360+00:00", 
+  "modified_at": "2015-03-26T16:01:33.760850+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "be041a3e33d44fe5844c4e7c07364ba0", 
+    "c6a24f4e19344a158809903199b0c59f"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nAll babies cry. This is how they tell us what they need, or communicate. Some cry more than others.\r\n\r\nHunger is usually the reason why your baby cries. So if he cries, let him breastfeed as long as he wants. He will soon be soothed as his tummy fills.\r\n\r\nSome babies cry if they feel uncomfortable. Check if your baby's clothes are too tight, or if his nappy is soiled.\r\n\r\nHe may also be feeling too warm or too cold. Check how many layers of clothing he has on. He should be cosy with just 1 more layer of clothing than you.\r\n\r\nYour baby may also just want to rest or be held.\r\n\r\nHere are 3 ways to comfort your crying baby:\r\n\r\n - Wrap him tightly in a blanket. Babies like to feel snug and secure like they did in the womb.\r\n - Hold him against you with a blanket. The rhythm of your heartbeat may soothe him.\r\n - Sing to him or rock him gently.\r\n\r\nIf your baby cries without stopping, or the cry is more high-pitched than normal, take him to the clinic.\r\n", 
   "source": null, 
