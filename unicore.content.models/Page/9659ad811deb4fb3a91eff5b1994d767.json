@@ -6,15 +6,22 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-19T10:49:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-19T12:28:00.439315+00:00", 
+  "modified_at": "2015-03-26T15:31:59.036666+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e3784fad4ee24c95b5668bddeca67180", 
+    "84eeab3e4c944f6fbe83ed166f726f15", 
+    "31c074cfd09e416a894a6bc0c1757cb2", 
+    "d907288496df45e2b98c7b15cbf4d81d", 
+    "456114e0d85c4e5193484468601e48ff", 
+    "c02a61d73def4f439bede271b83bf924"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nMinerals help you to stay healthy and grow a healthy baby. If you eat foods from these 4 main food groups you will get the minerals you need.\r\n\r\n - Fruit and vegetables. Eating lots of different coloured fruit and vegetables will give you lots of goodness.\r\n - Starchy, filling foods, such as rice and potatoes. Base your meals around starchy foods. This will give you plenty of energy.\r\n - Protein-rich foods, such as eggs, fish, poultry and meat. These foods are also good sources of iron. They will help you to stay strong.\r\n - Calcium-rich foods such as milk and yoghurt. \r\n\r\nAdding iodised salt to your food will give you iodine. You need plenty of iodine in your diet to help your baby's brain to develop. Try to have some every day. If salt is iodised, it will say this on the packet.\r\n\r\nBy eating a range of these foods you will be able to stay fit and strong, as well as grow a healthy baby.\r\n", 
   "source": null, 
