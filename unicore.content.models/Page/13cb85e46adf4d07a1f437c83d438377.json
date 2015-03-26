@@ -6,15 +6,20 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-19T10:33:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-19T12:14:54.361284+00:00", 
+  "modified_at": "2015-03-26T15:18:43.442511+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c921a15e398e4375bf3d2ad4e3fba712", 
+    "5968cebd0a5b48febab28820e9ec5432", 
+    "8a6765a9459e45ecb725a82e6ae65100", 
+    "06ddf0e4c87542119137f15cc4c1cd70"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nIf anyone in your family has tuberculosis (TB), everyone should get tested. Treatment will protect you and your baby. \r\n\r\nBe alert to the signs of TB in your own body, and in those around you, TB is an illness which can be very dangerous. It spreads through the air by coughs and sneezes. It can stay in the air for a long time. \r\n\r\nIf you have a cough for more than 2 weeks or have lost weight unexpectedly, see a health worker. They will be able to check if you have TB, and they can give you the right medicines. \r\n\r\nIf you finish all the medicines, you can kill TB completely. Stopping  taking them  before you finish can make the TB come back.\r\n\r\nYou can catch TB more easily when you are pregnant. Try to take extra care by eating well and staying away from crowded areas and people who are coughing and sneezing.\r\n\r\nIf anyone in your family has TB, they will stop being infectious after taking  medication for 2 weeks. Ask them to cover their mouth and nose while coughing or sneezing, and to wash their hands regularly.\r\n", 
   "source": null, 
