@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "MomConnect South Africa", 
+  "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
+  "created_at": "2015-06-30T08:57:07.774749+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-06-30T08:57:07.774954+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Have you registered yet to be a part of MomConnect? \r\n\r\nMomConnect is the National Department of Health\u2019s (NDoH) new pregnancy registry, messaging and helpdesk programme. You will get pregnancy information sent to your cellphone. This will help to keep you and your baby healthy and also remind you when to go the clinic.\r\n\r\nWhy should you join? \r\n\r\nMomConnect is working to make sure you get the best possible information during your pregnancy and after birth. You will get SMSs each week to give you information about your pregnancy and how to stay healthy. Once you have given birth you will continue to receive messages on how to care for your baby and keep baby well. You can also use the helpdesk service to ask questions, give a compliment or make a complaint about the service you receive at your clinic.\r\n\r\nWhere do you sign up? \r\n\r\nGo to your nearest health facility and the staff will help you sign up for MomConnect by dialling *134*550*2#. Signing up at a health facility is the only way in which you can fully register for the programme. If you aren\u2019t close to a clinic ask your community health worker to help you sign up. Or you can do it yourself by dialing *134*550# for a smaller set of messages. Signing up is free but standard rates apply to messages sent to the helpdesk.\r\n\r\nYou can opt out any time by dialing *134*550*1#. All the calls to *134*550 numbers are free of charge.\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "momconnect-south-africa", 
+  "uuid": "e44c9649441b4223ba578b6d1188e84c"
+}
