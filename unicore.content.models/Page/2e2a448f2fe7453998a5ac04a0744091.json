@@ -3,15 +3,15 @@
   "description": "Breast is best if you are living with HIV", 
   "language": "eng_GB", 
   "title": "Breastmilk combats HIV", 
-  "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
+  "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2015-02-19T11:11:49+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-03-26T15:49:10.116120+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-12-11T14:51:48.678976+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
