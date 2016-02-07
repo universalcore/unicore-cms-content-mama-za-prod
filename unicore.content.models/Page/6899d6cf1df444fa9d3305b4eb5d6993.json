@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "How can I protect myself from Zika?", 
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
-  "created_at": "2016-02-07T08:50:36.046959+00:00", 
+  "created_at": "2016-02-07T08:50:36+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-07T08:50:36.047194+00:00", 
+  "modified_at": "2016-02-07T08:52:02.614665+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-can-i-protect-myself-zika", 
   "uuid": "6899d6cf1df444fa9d3305b4eb5d6993"
